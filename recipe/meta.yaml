@@ -1,5 +1,5 @@
 {% set name = "paralleltask" %}
-{% set version = "0.1.1" %}
+{% set version = "0.2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/Paralleltask-{{ version }}.tar.gz
-  sha256: 9bf84d83acbc208d03adc7c9771f60c4d871bbfdc540f2243721fab5675e97fe
+  sha256: 20b2323a24fd6e966110d728194e2b7f44d20861bde067a283ded20e11b2502a
 
 build:
   entry_points:
