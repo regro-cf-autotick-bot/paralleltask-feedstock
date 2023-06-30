@@ -1,11 +1,11 @@
-About paralleltask
-==================
+About paralleltask-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/paralleltask-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/moold/ParallelTask
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/paralleltask-feedstock/blob/main/LICENSE.txt)
 
 Summary: A simple and lightweight parallel task engine
 
